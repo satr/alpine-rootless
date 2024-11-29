@@ -6,3 +6,11 @@
 ```shell
 docker push github.io/satr/alpine-rootless:latest
 ```
+
+```shell
+docker push github.io/satr/alpine-rootless:arm64
+```
+
+```shell
+docker push github.io/satr/alpine-rootless:amd64
+```
